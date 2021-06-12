@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622611729 source:/home/avinashlamichhane/Documents/C-language/loop/main.c
+
+1622786317 source:/home/avinashlamichhane/Documents/C-language/loop/loop_par.c
+	<stdio.h>
+
+1622797884 source:/home/avinashlamichhane/Documents/C-language/loop/game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1622806441 source:/home/avinashlamichhane/Documents/C-language/loop/functions.c
+	<stdio.h>
+
